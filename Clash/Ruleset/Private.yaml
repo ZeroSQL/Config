@@ -1,0 +1,70 @@
+# 规则名称: Me
+payload:
+  - DOMAIN-SUFFIX,bajie.la
+  - DOMAIN-SUFFIX,69shuba.com
+
+# 规则名称: Google
+payload:
+  - DOMAIN-SUFFIX,1e100.net
+  - DOMAIN-SUFFIX,2mdn.net
+  - DOMAIN-SUFFIX,app-measurement.net
+  - DOMAIN-SUFFIX,c.gle
+  - DOMAIN-SUFFIX,g.co
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,goo.gl
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.cn
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gvt0.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,yt.be
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,google
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - DOMAIN-SUFFIX,googledrive.com
+  - DOMAIN-SUFFIX,googleusercontent.com
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.google.android.gms
+  - PROCESS-NAME,com.google.android.gsf
+  - PROCESS-NAME,com.google.android.play.games
+
+# NAME: Instagram
+payload:
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-KEYWORD,instagram
+
+# NAME: Protonmail
+payload:
+  - DOMAIN-SUFFIX,pm.me
+  - DOMAIN-SUFFIX,proton.me
+  - DOMAIN-SUFFIX,protonmail.ch
+  - DOMAIN-SUFFIX,protonmail.com
+  - DOMAIN-SUFFIX,protonstatus.com
+
+# NAME: Yahoo
+payload:
+  - DOMAIN-SUFFIX,yahoo-inc.com
+  - DOMAIN-SUFFIX,yahoo.cm
+  - DOMAIN-SUFFIX,yahoo.com
+  - DOMAIN-SUFFIX,yahoo.com.hk
+  - DOMAIN-SUFFIX,yahoo.com.tw
+  - DOMAIN-SUFFIX,yahoo.fr
+  - DOMAIN-SUFFIX,yahoo.net
+  - DOMAIN-SUFFIX,yahoo.tw
+  - DOMAIN-SUFFIX,yahooapis.com
+  - DOMAIN-SUFFIX,yahoodns.net
+  - DOMAIN-SUFFIX,yahoofinance.com
+  - DOMAIN-SUFFIX,yahoomailbusiness.com
+  - DOMAIN-SUFFIX,yimg.com
+  - DOMAIN-SUFFIX,ymail.com
