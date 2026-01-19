@@ -1,0 +1,8 @@
+# 规则名称: 卡厄斯梦境
+# 规则统计: 4
+
+payload:
+  - DOMAIN-SUFFIX,onstove.com
+  - DOMAIN-SUFFIX,playstove.com
+  - DOMAIN-SUFFIX,81plug.com
+  - DOMAIN-SUFFIX,singular.net
