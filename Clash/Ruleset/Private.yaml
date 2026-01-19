@@ -2,6 +2,7 @@
 payload:
   - DOMAIN-SUFFIX,bajie.la
   - DOMAIN-SUFFIX,69shuba.com
+  - DOMAIN-SUFFIX,applvn.com
 
 # 规则名称: Google
 payload:
