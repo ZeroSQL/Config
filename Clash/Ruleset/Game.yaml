@@ -4,3 +4,22 @@ payload:
   - DOMAIN-SUFFIX,playstove.com
   - DOMAIN-SUFFIX,81plug.com
   - DOMAIN-SUFFIX,singular.net
+
+# 规则名称: arcane.adventure
+payload:
+  - DOMAIN-SUFFIX,my.games
+  - DOMAIN-SUFFIX,appmetr.com
+  - DOMAIN-SUFFIX,center.org
+  - DOMAIN-SUFFIX,inf.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-SUFFIX,pixapi.net
+  - DOMAIN-SUFFIX,x3m.biz
+  - DOMAIN-SUFFIX,pangle.io
+applvn.com
+bidmachine.io
+facebook.com
+moloco.com
+unity3d.com
+mtgglobals.com
+cloudfront.net
+mintegral.net
