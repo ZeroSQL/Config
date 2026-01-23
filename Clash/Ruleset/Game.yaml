@@ -15,11 +15,11 @@ payload:
   - DOMAIN-SUFFIX,pixapi.net
   - DOMAIN-SUFFIX,x3m.biz
   - DOMAIN-SUFFIX,pangle.io
-applvn.com
-bidmachine.io
-facebook.com
-moloco.com
-unity3d.com
-mtgglobals.com
-cloudfront.net
-mintegral.net
+  - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,bidmachine.io
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,moloco.com
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,mtgglobals.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,mintegral.net
