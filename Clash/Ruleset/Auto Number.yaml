@@ -1,0 +1,15 @@
+# Auto Number Verification
+payload:
+  - DOMAIN-KEYWORD,auth.wosms.cn
+  - DOMAIN-KEYWORD,config.cmpassport.com
+  - DOMAIN-KEYWORD,enrichgw.10010.com
+  - DOMAIN-KEYWORD,hmrz.wo.cn
+  - DOMAIN-KEYWORD,id.mail.wo.cn
+  - DOMAIN-KEYWORD,id6.me
+  - DOMAIN-KEYWORD,log.cmpassport.com
+  - DOMAIN-KEYWORD,log1.cmpassport.com
+  - DOMAIN-KEYWORD,mdn.open.wo.cn
+  - DOMAIN-KEYWORD,mob.com
+  - DOMAIN-KEYWORD,nishub1.10010.com
+  - DOMAIN-KEYWORD,opencloud.wostore.cn
+  - DOMAIN-KEYWORD,ye.dun.163yun.com
