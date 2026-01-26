@@ -8,16 +8,4 @@ payload:
 # 规则名称: arcane.adventure
 payload:
   - DOMAIN-SUFFIX,my.games
-  - DOMAIN-SUFFIX,appmetr.com
-  - DOMAIN-SUFFIX,center.org
-  - DOMAIN-SUFFIX,inf.com
-  - DOMAIN-SUFFIX,appsflyersdk.com
-  - DOMAIN-SUFFIX,pixapi.net
-  - DOMAIN-SUFFIX,x3m.biz
-  - DOMAIN-SUFFIX,pangle.io
-  - DOMAIN-SUFFIX,bidmachine.io
-  - DOMAIN-SUFFIX,moloco.com
-  - DOMAIN-SUFFIX,unity3d.com
-  - DOMAIN-SUFFIX,mtgglobals.com
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,mintegral.net
+  - DOMAIN-SUFFIX,applvn.com
