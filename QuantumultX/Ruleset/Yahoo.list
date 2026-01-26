@@ -1,14 +1,10 @@
 # Yahoo
 HOST-SUFFIX,yahoo-inc.com,Yahoo
-HOST-SUFFIX,yahoo-net.jp,Yahoo
 HOST-SUFFIX,yahoo.cm,Yahoo
-HOST-SUFFIX,yahoo.cn,Yahoo
 HOST-SUFFIX,yahoo.co.id,Yahoo
-HOST-SUFFIX,yahoo.co.jp,Yahoo
 HOST-SUFFIX,yahoo.co.kr,Yahoo
 HOST-SUFFIX,yahoo.co.uk,Yahoo
 HOST-SUFFIX,yahoo.com,Yahoo
-HOST-SUFFIX,yahoo.com.cn,Yahoo
 HOST-SUFFIX,yahoo.com.hk,Yahoo
 HOST-SUFFIX,yahoo.com.sg,Yahoo
 HOST-SUFFIX,yahoo.com.tw,Yahoo
@@ -17,10 +13,8 @@ HOST-SUFFIX,yahoo.fr,Yahoo
 HOST-SUFFIX,yahoo.net,Yahoo
 HOST-SUFFIX,yahoo.tw,Yahoo
 HOST-SUFFIX,yahooapis.com,Yahoo
-HOST-SUFFIX,yahooapis.jp,Yahoo
 HOST-SUFFIX,yahoodns.net,Yahoo
 HOST-SUFFIX,yahoofinance.com,Yahoo
-HOST-SUFFIX,yahoomail.jp,Yahoo
 HOST-SUFFIX,yahoomailbusiness.com,Yahoo
 HOST-SUFFIX,yimg.com,Yahoo
 HOST-SUFFIX,ymail.com,Yahoo
