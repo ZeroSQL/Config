@@ -9,3 +9,5 @@ payload:
 payload:
   - DOMAIN-SUFFIX,my.games
   - DOMAIN-SUFFIX,applvn.com
+  - DOMAIN-SUFFIX,pixapi.net
+  - DOMAIN-SUFFIX,appmetr.com
