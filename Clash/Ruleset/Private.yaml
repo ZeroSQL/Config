@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,facebook.com
 
 # NAME: Instagram
 payload:
@@ -75,4 +74,14 @@ payload:
   - DOMAIN-SUFFIX,pinterest.pt
   - DOMAIN-SUFFIX,pinterest.ru
   - DOMAIN-SUFFIX,pinterest.se
+
+# 规则名称: Facebook
+payload:
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,fb.com
+  - DOMAIN-SUFFIX,fb.me
+  - DOMAIN-SUFFIX,fbcdn.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fbcdn
 
