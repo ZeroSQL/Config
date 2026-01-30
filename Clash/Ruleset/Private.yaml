@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,facebook.com
 
 # NAME: Instagram
 payload:
