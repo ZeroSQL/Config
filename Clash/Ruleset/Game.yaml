@@ -1,7 +1,0 @@
-# 规则名称: 卡厄斯梦境
-payload:
-  - DOMAIN-SUFFIX,onstove.com
-  - DOMAIN-SUFFIX,playstove.com
-  - DOMAIN-SUFFIX,81plug.com
-  - DOMAIN-SUFFIX,singular.net
-  - DOMAIN-SUFFIX,appguard.co.kr
