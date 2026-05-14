@@ -5,7 +5,8 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,z-library.sk
   - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,cloud.unity3d.com
+  - DOMAIN,access.mypikpak.com
+  - DOMAIN,api-drive.mypikpak.com
 
 # NAME: Protonmail
 payload:
